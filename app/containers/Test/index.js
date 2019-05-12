@@ -2,7 +2,7 @@ import React,{Component} from "react";
 
 class Test extends Component{
     render(){
-        return(<h1>This is a test component!</h1>);
+        return(<h1>This is a test component,Horray!</h1>);
     }
 }
 
