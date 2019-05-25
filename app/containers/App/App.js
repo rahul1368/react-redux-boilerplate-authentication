@@ -34,6 +34,7 @@ const App = () => (
       <Route path="" component={NotFoundPage} />
     </Switch>
     <Footer />
+    <Test a={()=>setInterval(()=>"fggh",100)} />
   </div>
 );
 
